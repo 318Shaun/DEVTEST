@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x4Db6203cf9Ec40C51Ee6d519Cc5080c11ee48340",
+  "SCAN_LINK": "https://etherscan.io/token/0x4Db6203cf9Ec40C51Ee6d519Cc5080c11ee48340#writeContract",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "Moonsters",
+  "SYMBOL": "MOON",
+  "MAX_SUPPLY": 8888,
+  "WEI_COST": 30000000000000000,
+  "DISPLAY_COST": 0.03,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/moonsters-nft",
+  "SHOW_BACKGROUND": true
+}
